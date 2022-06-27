@@ -1,6 +1,6 @@
 # ulogging-js
 
-**GitHub:** https://github.com/s0urce18/ulogging-js
+**GitHub:** https://github.com/s0urcedev/ulogging-js
 
 **NPM:** https://www.npmjs.com/package/ulogging
 
